@@ -1,0 +1,9 @@
+{
+    "paragraphs" : [
+        "<p>When a function\\(f\\) fulfills this, we will use the above notation and say that: </p>",
+        "<ul><li>\\(x\\) tends to infinity: it is equivalent to saying that the variable \\(x\\) increases indefinitely. </li> <li> \\(f(x)\\) tends to \\(L\\): it is equivalent to saying that the limit of \\(f(x)\\) is equal to \\(L\\). Although in this activity we only consider that \\(x\\) tends to infinity, you must be careful to use this expression being explicit if \\(x\\) tends to infinity, to minus infinity or to some real number. </li></ul>",
+        "<p>In general, it should be noted that the limit of \\(f(x)\\) as \\(x\\) tends to infinity is \\(L\\) if for any ...",
+        "<p>Note that the expression ”from a certain value of \\(x\\)” is represented by </p>",
+        "<p>\\[ \\exists x_0 \\in \\mathbb R\\colon x&gt;x_0, \\] </p>"
+    ]
+}
